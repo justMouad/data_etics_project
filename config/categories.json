@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "id": "C1",
+      "nom": "Discrimination",
+      "definition": "Clause qui exclut ou désavantage une personne sur la base d'un critère protégé ou socialement sensible, de manière explicite ou implicite.",
+      "criteres": [
+        "référence à l'âge, au sexe, à l'origine, à la religion, au handicap, à la grossesse, à la situation familiale ou à la santé",
+        "condition d'embauche ou de maintien en poste fondée sur des caractéristiques protégées",
+        "expression de préférence ou de dévalorisation d'un groupe"
+      ],
+      "exemples_toxiques": [
+        "Nous recrutons uniquement des candidats de moins de 30 ans pour ce poste.",
+        "Le salarié devra être de nationalité française afin de pouvoir intégrer l'équipe."
+      ],
+      "exemples_non_toxiques": [
+        "Le poste est ouvert à tous candidats répondant aux exigences de qualification du poste.",
+        "L'entreprise veille à la conformité de ses recrutements avec les obligations légales en vigueur."
+      ],
+      "gravite": "eleve"
+    },
+    {
+      "id": "C2",
+      "nom": "Sanctions abusives",
+      "definition": "Clause permettant une sanction disproportionnée, intimidante ou soumise à des menaces excessives, sans cadre clair ni procédure proportionnée.",
+      "criteres": [
+        "sanction arbitraire ou sans procédure",
+        "menace de licenciement ou de rétorsion sans motif explicite",
+        "pénalités excessives sans contrepartie ni cadre"
+      ],
+      "exemples_toxiques": [
+        "Tout salarié qui s'oppose à la direction est immédiatement suspendu sans indemnité.",
+        "En cas d'erreur, le collaborateur accepte un remboursement intégral de ses indemnités."
+      ],
+      "exemples_non_toxiques": [
+        "Les sanctions disciplinaires sont appliquées conformément au règlement intérieur et à la procédure prévue.",
+        "En cas d'écart de procédure, l'employeur informe le salarié avant toute mesure disciplinaire."
+      ],
+      "gravite": "eleve"
+    },
+    {
+      "id": "C3",
+      "nom": "Restriction excessive de liberté",
+      "definition": "Clause qui impose des contraintes déraisonnables sur la vie personnelle, les loisirs, la mobilité ou les activités hors travail.",
+      "criteres": [
+        "contrôle excessif de la vie privée",
+        "interdiction générale de toute activité concurrente ou parallèle",
+        "obligation d'absence de vie personnelle ou de mobilité"
+      ],
+      "exemples_toxiques": [
+        "Le salarié s'engage à ne jamais voyager pendant les congés et à rester disponible 24h/24.",
+        "Toute activité bénévole ou associative est interdite pendant toute la durée du contrat."
+      ],
+      "exemples_non_toxiques": [
+        "Le salarié doit respecter les obligations de confidentialité applicables pendant la durée du contrat.",
+        "Les parties peuvent convenir d'un cadre spécifique pour les activités concurrentes, dans le respect du droit applicable."
+      ],
+      "gravite": "moyen"
+    },
+    {
+      "id": "C4",
+      "nom": "Confidentialite et surveillance intrusive",
+      "definition": "Clause qui étend sans limite raisonnable l'accès au droit à la vie privée, aux données personnelles ou à la correspondance privée du salarié.",
+      "criteres": [
+        "consentement général au contrôle de l'ordinateur, du téléphone ou des messages personnels",
+        "surveillance permanente non justifiée",
+        "droit d'accès illimité aux contenus privés du salarié"
+      ],
+      "exemples_toxiques": [
+        "L'employeur peut consulter l'ensemble des messages personnels du salarié à tout moment, sans restriction.",
+        "Le salarié accepte que l'entreprise contrôle ses réseaux sociaux et ses communications privées."
+      ],
+      "exemples_non_toxiques": [
+        "L'employeur peut contrôler les équipements professionnels dans le cadre des obligations de sécurité informatique.",
+        "Les données personnelles sont traitées conformément à la politique de protection des données de l'entreprise."
+      ],
+      "gravite": "moyen"
+    },
+    {
+      "id": "C5",
+      "nom": "Toxicite psychologique et intimidation",
+      "definition": "Clause qui instille un environnement de peur, de pression excessive ou d'humiliation, sans cadre de respect mutuel ou de bonne foi.",
+      "criteres": [
+        "termes humiliants, intimidants ou dégradants",
+        "insinuations de punition psychologique",
+        "pression excessive à l'égard du salarié"
+      ],
+      "exemples_toxiques": [
+        "Le salarié s'engage à accepter les critiques parfois humiliantes de la direction sans jamais contester.",
+        "Toute erreur est présentée comme une preuve de faiblesse morale et de manque de loyauté."
+      ],
+      "exemples_non_toxiques": [
+        "Le manager formule des retours constructifs dans le cadre du suivi de performance.",
+        "Les conventions d'évaluation sont encadrées par des objectifs clairs et des échanges réguliers."
+      ],
+      "gravite": "eleve"
+    },
+    {
+      "id": "C6",
+      "nom": "Déplacement ou mobilité forcée",
+      "definition": "Clause qui impose des changements de lieu, des déplacements ou des conditions d'emploi sans juste équilibre, transparence ou compensation raisonnable.",
+      "criteres": [
+        "déplacement permanent sans accord explicite",
+        "mobilité forcée à l'étranger ou dans d'autres régions sans garantir les conditions de travail",
+        "obligation de mobilité sans compensation claire"
+      ],
+      "exemples_toxiques": [
+        "Le salarié accepte sans discussion un changement d'affectation géographique à tout moment.",
+        "Le salarié doit s'installer dans une autre ville dès la première demande de l'employeur, sans indemnité."
+      ],
+      "exemples_non_toxiques": [
+        "Un changement de lieu d'affectation peut être proposé avec information préalable et indemnitations conformes.",
+        "La mobilité géographique est prévue dans le cadre d'un accord explicite et documenté."
+      ],
+      "gravite": "moyen"
+    },
+    {
+      "id": "C7",
+      "nom": "Clauses de non-concurrence excessives",
+      "definition": "Clause qui impose des restrictions excessives sur la liberté de travail après la rupture du contrat, sans proportionnalité ni limite temporelle claire.",
+      "criteres": [
+        "interdiction générale de toute activité concurrente sans limite de temps ou de zone",
+        "restriction disproportionnée à la fonction effectivement exercée",
+        "absence de compensation ou de seuil de sécurité"
+      ],
+      "exemples_toxiques": [
+        "Après la fin du contrat, le salarié s'interdit toute activité professionnelle dans le secteur pendant 15 ans.",
+        "Le salarié devra refuser tout emploi dans le secteur concurrent, même en dehors de sa zone d'activité."
+      ],
+      "exemples_non_toxiques": [
+        "Une clause de non-concurrence peut être prévue dans des conditions strictement encadrées et limitées dans le temps.",
+        "L'employeur et le salarié peuvent convenir d'une restriction limitée à la zone et au secteur concerné."
+      ],
+      "gravite": "moyen"
+    },
+    {
+      "id": "C8",
+      "nom": "Droits de propriété intellectuelle non cadrés",
+      "definition": "Clause qui attribue de manière excessive les créations du salarié, sans précision sur les droits concernés, les exemptions et la temporalité.",
+      "criteres": [
+        "cession de tous droits sur les créations personnelles sans précision",
+        "attribution implicite de toutes les idées, activités ou contenus générés hors travail",
+        "absence de distinction claire entre travail salarié et production personnelle"
+      ],
+      "exemples_toxiques": [
+        "Le salarié cède sans réserve la totalité de ses inventions, idées et projets, même hors cadre du contrat.",
+        "Toute création de l'employé, même personnelle, appartient entièrement à l'entreprise."
+      ],
+      "exemples_non_toxiques": [
+        "Les droits de propriété intellectuelle liés aux missions confiées sont cédés selon les conditions définies dans le contrat.",
+        "Les créations hors mission demeurent la propriété du salarié, sauf accord formel."
+      ],
+      "gravite": "faible"
+    }
+  ]
+}

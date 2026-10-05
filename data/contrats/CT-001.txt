@@ -1,0 +1,84 @@
+CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE — DOCUMENT FICTIF
+Entre les soussignés :
+La société NOVADATA HEXAGONE, société fictive, dont le siège social est situé 18 rue des Algorithmes, 75000 Paris, SIRET
+fictif NON VALIDE : 000 000 000 00000, représentée par Mme Claire Vautrin, directrice générale, ci-après « l’Employeur »,
+Et M. Adrien Mercier, né le 14 février 1998 à Lille, demeurant 7 rue des Fougères, 59000 Lille, numéro de sécurité sociale fictif
+et non valide : 1 98 99 99 999 999 99,
+Il est convenu ce qui suit.
+Article 1 — Fonction et qualification
+M. Adrien Mercier est engagé à compter du 3 novembre 2026 en qualité d’Ingénieur Data, statut cadre, position fictive 2.1,
+coefficient fictif 130. Il exerce notamment des missions de conception de pipelines de données, de développement SQL et
+Python, d’administration de traitements distribués, de contrôle de qualité des données, de documentation technique et de
+participation aux projets d’architecture.
+Article 2 — Date de début et durée
+Le présent contrat est conclu pour une durée indéterminée à compter du 3 novembre 2026. Il est soumis aux dispositions
+légales et conventionnelles applicables à l’entreprise.
+Article 3 — Période d’essai
+Le contrat comporte une période d’essai de quatre mois. Elle pourra être renouvelée une fois dans les conditions prévues par
+les dispositions légales et conventionnelles applicables, sous réserve de l’accord exprès des parties lorsque celui-ci est requis.
+Article 4 — Lieu de travail
+Le lieu habituel de travail est fixé au siège de NOVADATA HEXAGONE à Paris. Des déplacements professionnels occasionnels
+en France métropolitaine peuvent être demandés lorsque les missions le justifient. Les frais engagés dans l’intérêt de
+l’entreprise sont remboursés conformément aux règles internes applicables.
+Article 5 — Mobilité
+Compte tenu de la nature des activités exercées, le salarié pourra être affecté temporairement à un autre établissement de
+l’entreprise situé en France métropolitaine, sous réserve d’un délai de prévenance raisonnable et du respect des dispositions
+légales et conventionnelles applicables.
+Article 6 — Durée du travail
+En qualité de cadre soumis à une convention de forfait en jours, le salarié est soumis à un forfait annuel de 218 jours travaillés,
+sous réserve des dispositions conventionnelles applicables. L’organisation du travail devra respecter les repos quotidien et
+hebdomadaire ainsi que les règles relatives à la santé et à la sécurité.
+Article 7 — Rémunération
+En contrepartie de ses fonctions, le salarié percevra une rémunération brute annuelle fixe de 48 000 euros, versée en douze
+mensualités. Une prime annuelle pouvant atteindre 6 000 euros pourra être attribuée en fonction de la performance individuelle
+et collective, selon des objectifs communiqués par l’entreprise.
+À tout moment, l’Employeur pourra modifier unilatéralement le montant du salaire fixe et les éléments essentiels de la
+rémunération en fonction des besoins économiques, de la situation financière de l’entreprise ou de l’évolution des missions,
+sans qu’un avenant soit nécessaire et sans que le salarié puisse s’y opposer.
+Article 8 — Frais professionnels
+Les frais engagés pour les besoins de l’activité professionnelle et préalablement autorisés sont remboursés sur présentation des
+justificatifs, conformément à la politique de frais de l’entreprise.
+Article 9 — Congés et absences
+Le salarié bénéficie des congés payés et autorisations d’absence prévus par la loi et la convention collective applicable. Les
+dates de congés sont arrêtées en tenant compte des nécessités du service et des souhaits du salarié dans les conditions
+prévues par les textes applicables.
+Article 10 — Convention collective
+Le présent contrat relève de la convention collective nationale des bureaux d’études techniques, cabinets d’ingénieurs-conseils
+et sociétés de conseil (Syntec-Cinov), sous réserve de son champ d’application.
+Article 11 — Confidentialité
+Le salarié s’engage à conserver strictement confidentiels les informations, documents, données, codes sources, méthodes,
+identifiants et informations commerciales dont il aurait connaissance dans le cadre de son activité. Cette obligation se poursuit
+après la cessation du contrat pour les informations demeurant confidentielles par leur nature.
+Article 12 — Propriété des travaux
+Les développements, documents et livrables réalisés dans le cadre des fonctions sont soumis aux règles légales applicables à
+la propriété intellectuelle. Le salarié coopérera, dans les limites de ses obligations légales, à la formalisation des droits
+nécessaires à l’exploitation professionnelle des travaux réalisés pour l’entreprise.
+Article 13 — Non-concurrence
+Compte tenu de l’accès du salarié à des informations stratégiques, une obligation de non-concurrence s’appliquera pendant
+vingt-quatre mois après la rupture du contrat sur l’ensemble du territoire de l’Union européenne. Pendant cette période, le
+salarié s’interdit de travailler pour toute entreprise exerçant une activité concurrente directe de NOVADATA HEXAGONE dans le
+domaine des plateformes de données. Aucune contrepartie financière spécifique ne sera versée au titre de cette obligation.
+Article 14 — Exclusivité
+Pendant l’exécution du contrat, le salarié consacrera son activité professionnelle à l’entreprise et s’interdit toute activité
+rémunérée ou non rémunérée pour le compte d’un tiers sans autorisation écrite préalable de l’Employeur, y compris les activités
+accessoires sans lien avec le secteur informatique.
+Article 15 — Données personnelles
+L’Employeur traite les données personnelles du salarié nécessaires à la gestion administrative, à la paie, à la sécurité des
+systèmes et au respect de ses obligations légales. Le salarié dispose des droits prévus par la réglementation applicable et peut
+contacter le service des ressources humaines ou le délégué à la protection des données lorsqu’il existe.
+Article 16 — Contrôle de l’activité
+Les équipements professionnels peuvent faire l’objet de contrôles destinés à assurer la sécurité des systèmes, la protection des
+informations et le respect des règles internes. Les dispositifs de contrôle sont mis en œuvre conformément aux règles
+applicables en matière de protection des données et de respect de la vie privée.
+Article 17 — Rupture
+La rupture du contrat peut intervenir dans les conditions prévues par la loi et la convention collective, notamment par démission,
+licenciement, rupture conventionnelle ou dans les autres cas légalement prévus. Les délais de préavis applicables sont ceux
+résultant des textes en vigueur.
+Article 18 — Dispositions finales
+Toute modification d’un élément essentiel du contrat nécessite l’accord des parties lorsqu’un tel accord est requis par la loi. Si
+une stipulation est déclarée inapplicable, les autres stipulations demeurent en vigueur dans la mesure permise par la loi.
+Fait à Paris, le 3 novembre 2026, en deux exemplaires.
+Pour l’Employeur : Claire Vautrin
+Signature : __________________
+Le salarié : Adrien Mercier
+Signature : __________________

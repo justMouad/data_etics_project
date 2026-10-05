@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "titre": "CONTRAT DE MISSION D’INTÉRIM — DOCUMENT FICTIF",
+    "date_signature": "2026-11-16",
+    "type_contrat": "INTERIM",
+    "statut": "non_cadre",
+    "secteur": "Travail temporaire"
+  },
+  "parties": [
+    {
+      "role": "employeur",
+      "nom": "INTERIM AXE",
+      "type_partie": "personne_morale"
+    },
+    {
+      "role": "salarie",
+      "nom": "Lucas Robert",
+      "type_partie": "personne_physique"
+    }
+  ],
+  "extraction": {
+    "fonction": "aide de chantier",
+    "date_debut": "2026-11-16",
+    "date_fin": "2027-01-15",
+    "periode_essai_mois": null,
+    "lieu_travail": "27 rue des Mimosas, 31000 Toulouse",
+    "clause_mobilite": false,
+    "duree_travail": "35 heures par semaine",
+    "remuneration_brute_annuelle": null,
+    "remuneration_variable_presente": true,
+    "convention_collective": "travail temporaire",
+    "clause_non_concurrence": false,
+    "non_concurrence_duree_mois": null,
+    "non_concurrence_contrepartie": null,
+    "clause_exclusivite": false,
+    "preavis": null
+  },
+  "clauses": [],
+  "contrat_id": "CT-003",
+  "presence_toxicite": false,
+  "niveau_toxicite": "aucune",
+  "categorie_toxicite": [],
+  "source": "llm",
+  "version_schema": "1.0"
+}

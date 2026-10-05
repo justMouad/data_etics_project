@@ -1,0 +1,17 @@
+{
+  "contrat_id": "CT-003",
+  "metadata": {
+    "titre": null,
+    "date_signature": null,
+    "type_contrat": "intérim",
+    "statut": "non-cadre",
+    "secteur": "BTP"
+  },
+  "parties": [],
+  "clauses": [],
+  "presence_toxicite": false,
+  "niveau_toxicite": "aucune",
+  "categorie_toxicite": [],
+  "source": "hybride",
+  "version_schema": "1.0"
+}

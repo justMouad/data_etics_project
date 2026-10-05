@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/etics-contrats.schema.json",
+  "title": "Resultat de detection de toxicite dans un contrat",
+  "type": "object",
+  "required": [
+    "contrat_id",
+    "metadata",
+    "parties",
+    "clauses",
+    "categorie_toxicite",
+    "presence_toxicite",
+    "niveau_toxicite",
+    "source",
+    "version_schema"
+  ],
+  "properties": {
+    "contrat_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["titre", "date_signature", "type_contrat"],
+      "properties": {
+        "titre": { "type": "string" },
+        "date_signature": { "type": ["string", "null"] },
+        "type_contrat": { "type": "string" },
+        "pays": { "type": "string" },
+        "secteur": { "type": "string" },
+        "source": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "parties": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["role", "nom"],
+        "properties": {
+          "role": { "type": "string" },
+          "nom": { "type": "string" },
+          "type_partie": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "clauses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "clause_id",
+          "categorie",
+          "texte_exact",
+          "conclusion",
+          "niveau_toxicite",
+          "justification",
+          "article",
+          "confiance"
+        ],
+        "properties": {
+          "clause_id": { "type": "string", "minLength": 1 },
+          "categorie": { "type": "string", "minLength": 1 },
+          "texte_exact": { "type": "string", "minLength": 1 },
+          "conclusion": { "type": "string", "enum": ["toxique", "non_toxique"] },
+          "niveau_toxicite": { "type": "string", "enum": ["faible", "moyen", "eleve", "critique", "non_applicable"] },
+          "justification": { "type": "string", "minLength": 10 },
+          "article": { "type": "string", "minLength": 1 },
+          "position": { "type": "integer", "minimum": 1 },
+          "confiance": { "type": "number", "minimum": 0, "maximum": 1 }
+        },
+        "additionalProperties": true
+      }
+    },
+    "categorie_toxicite": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "presence_toxicite": {
+      "type": "boolean"
+    },
+    "niveau_toxicite": {
+      "type": "string",
+      "enum": ["aucune", "faible", "moyen", "eleve", "critique"]
+    },
+    "source": {
+      "type": "string",
+      "enum": ["manual", "llm", "hybride"]
+    },
+    "version_schema": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": true
+}

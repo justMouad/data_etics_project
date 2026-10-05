@@ -1,0 +1,12 @@
+# Local environment and secrets
+.env
+__pycache__/
+*.pyc
+.venv/
+
+data/db/
+resultats/logs/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.pytest_cache/

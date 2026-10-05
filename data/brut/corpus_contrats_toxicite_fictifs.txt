@@ -1,0 +1,323 @@
+CORPUS SYNTHÉTIQUE — CONTRATS DE TRAVAIL ET
+CLAUSES TOXIQUES
+Corpus fictif destiné à un projet universitaire de détection automatique de toxicité contractuelle. Tous les noms, entreprises,
+adresses et identifiants sont inventés. Les identifiants signalés comme fictifs/non valides ne doivent pas être utilisés dans un
+contexte administratif réel.
+Les catégories d’annotation suivent la typologie fournie dans la demande. Ce corpus est un support pédagogique et ne constitue
+pas un conseil juridique.
+<CONTRAT>
+CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE — DOCUMENT FICTIF
+Entre les soussignés :
+La société NOVADATA HEXAGONE, société fictive, dont le siège social est situé 18 rue des Algorithmes, 75000 Paris, SIRET
+fictif NON VALIDE : 000 000 000 00000, représentée par Mme Claire Vautrin, directrice générale, ci-après « l’Employeur »,
+Et M. Adrien Mercier, né le 14 février 1998 à Lille, demeurant 7 rue des Fougères, 59000 Lille, numéro de sécurité sociale fictif
+et non valide : 1 98 99 99 999 999 99,
+Il est convenu ce qui suit.
+Article 1 — Fonction et qualification
+M. Adrien Mercier est engagé à compter du 3 novembre 2026 en qualité d’Ingénieur Data, statut cadre, position fictive 2.1,
+coefficient fictif 130. Il exerce notamment des missions de conception de pipelines de données, de développement SQL et
+Python, d’administration de traitements distribués, de contrôle de qualité des données, de documentation technique et de
+participation aux projets d’architecture.
+Article 2 — Date de début et durée
+Le présent contrat est conclu pour une durée indéterminée à compter du 3 novembre 2026. Il est soumis aux dispositions
+légales et conventionnelles applicables à l’entreprise.
+Article 3 — Période d’essai
+Le contrat comporte une période d’essai de quatre mois. Elle pourra être renouvelée une fois dans les conditions prévues par
+les dispositions légales et conventionnelles applicables, sous réserve de l’accord exprès des parties lorsque celui-ci est requis.
+Article 4 — Lieu de travail
+Le lieu habituel de travail est fixé au siège de NOVADATA HEXAGONE à Paris. Des déplacements professionnels occasionnels
+en France métropolitaine peuvent être demandés lorsque les missions le justifient. Les frais engagés dans l’intérêt de
+l’entreprise sont remboursés conformément aux règles internes applicables.
+Article 5 — Mobilité
+Compte tenu de la nature des activités exercées, le salarié pourra être affecté temporairement à un autre établissement de
+l’entreprise situé en France métropolitaine, sous réserve d’un délai de prévenance raisonnable et du respect des dispositions
+légales et conventionnelles applicables.
+Article 6 — Durée du travail
+En qualité de cadre soumis à une convention de forfait en jours, le salarié est soumis à un forfait annuel de 218 jours travaillés,
+sous réserve des dispositions conventionnelles applicables. L’organisation du travail devra respecter les repos quotidien et
+hebdomadaire ainsi que les règles relatives à la santé et à la sécurité.
+Article 7 — Rémunération
+En contrepartie de ses fonctions, le salarié percevra une rémunération brute annuelle fixe de 48 000 euros, versée en douze
+mensualités. Une prime annuelle pouvant atteindre 6 000 euros pourra être attribuée en fonction de la performance individuelle
+et collective, selon des objectifs communiqués par l’entreprise.
+À tout moment, l’Employeur pourra modifier unilatéralement le montant du salaire fixe et les éléments essentiels de la
+rémunération en fonction des besoins économiques, de la situation financière de l’entreprise ou de l’évolution des missions,
+sans qu’un avenant soit nécessaire et sans que le salarié puisse s’y opposer.
+Article 8 — Frais professionnels
+Les frais engagés pour les besoins de l’activité professionnelle et préalablement autorisés sont remboursés sur présentation des
+justificatifs, conformément à la politique de frais de l’entreprise.
+Article 9 — Congés et absences
+Le salarié bénéficie des congés payés et autorisations d’absence prévus par la loi et la convention collective applicable. Les
+dates de congés sont arrêtées en tenant compte des nécessités du service et des souhaits du salarié dans les conditions
+prévues par les textes applicables.
+Article 10 — Convention collective
+Le présent contrat relève de la convention collective nationale des bureaux d’études techniques, cabinets d’ingénieurs-conseils
+et sociétés de conseil (Syntec-Cinov), sous réserve de son champ d’application.
+Article 11 — Confidentialité
+Le salarié s’engage à conserver strictement confidentiels les informations, documents, données, codes sources, méthodes,
+identifiants et informations commerciales dont il aurait connaissance dans le cadre de son activité. Cette obligation se poursuit
+après la cessation du contrat pour les informations demeurant confidentielles par leur nature.
+Article 12 — Propriété des travaux
+Les développements, documents et livrables réalisés dans le cadre des fonctions sont soumis aux règles légales applicables à
+la propriété intellectuelle. Le salarié coopérera, dans les limites de ses obligations légales, à la formalisation des droits
+nécessaires à l’exploitation professionnelle des travaux réalisés pour l’entreprise.
+Article 13 — Non-concurrence
+Compte tenu de l’accès du salarié à des informations stratégiques, une obligation de non-concurrence s’appliquera pendant
+vingt-quatre mois après la rupture du contrat sur l’ensemble du territoire de l’Union européenne. Pendant cette période, le
+salarié s’interdit de travailler pour toute entreprise exerçant une activité concurrente directe de NOVADATA HEXAGONE dans le
+domaine des plateformes de données. Aucune contrepartie financière spécifique ne sera versée au titre de cette obligation.
+Article 14 — Exclusivité
+Pendant l’exécution du contrat, le salarié consacrera son activité professionnelle à l’entreprise et s’interdit toute activité
+rémunérée ou non rémunérée pour le compte d’un tiers sans autorisation écrite préalable de l’Employeur, y compris les activités
+accessoires sans lien avec le secteur informatique.
+Article 15 — Données personnelles
+L’Employeur traite les données personnelles du salarié nécessaires à la gestion administrative, à la paie, à la sécurité des
+systèmes et au respect de ses obligations légales. Le salarié dispose des droits prévus par la réglementation applicable et peut
+contacter le service des ressources humaines ou le délégué à la protection des données lorsqu’il existe.
+Article 16 — Contrôle de l’activité
+Les équipements professionnels peuvent faire l’objet de contrôles destinés à assurer la sécurité des systèmes, la protection des
+informations et le respect des règles internes. Les dispositifs de contrôle sont mis en œuvre conformément aux règles
+applicables en matière de protection des données et de respect de la vie privée.
+Article 17 — Rupture
+La rupture du contrat peut intervenir dans les conditions prévues par la loi et la convention collective, notamment par démission,
+licenciement, rupture conventionnelle ou dans les autres cas légalement prévus. Les délais de préavis applicables sont ceux
+résultant des textes en vigueur.
+Article 18 — Dispositions finales
+Toute modification d’un élément essentiel du contrat nécessite l’accord des parties lorsqu’un tel accord est requis par la loi. Si
+une stipulation est déclarée inapplicable, les autres stipulations demeurent en vigueur dans la mesure permise par la loi.
+Fait à Paris, le 3 novembre 2026, en deux exemplaires.
+Pour l’Employeur : Claire Vautrin
+Signature : __________________
+Le salarié : Adrien Mercier
+Signature : __________________
+</CONTRAT>
+<ANNOTATION>
+{
+"id": "CT-001",
+"type_contrat": "CDI",
+"statut": "cadre",
+"secteur": "informatique",
+"document_toxique": true,
+"niveau_toxicite": "severe",
+"clauses_toxiques": [
+{
+"article": "Article 7",
+"texte_exact": "À tout moment, l’Employeur pourra modifier unilatéralement le montant du salaire fixe et les éléments essentiels de la rémunération en fonction des besoins économiques, de la situation financière de l’entreprise ou de l’évolution des missions, sans qu’un avenant soit nécessaire et sans que le salarié puisse s’y opposer.",
+"categorie": "DESEQUILIBRE",
+"gravite": 3,
+"justification": "La clause autorise une modification unilatérale du salaire et d’éléments essentiels du contrat sans accord du salarié."
+},
+{
+"article": "Article 13",
+"texte_exact": "Compte tenu de l’accès du salarié à des informations stratégiques, une obligation de non-concurrence s’appliquera pendant vingt-quatre mois après la rupture du contrat sur l’ensemble du territoire de l’Union européenne. Pendant cette période, le salarié s’interdit de travailler pour toute entreprise exerçant une activité concurrente directe de NOVADATA HEXAGONE dans le domaine des plateformes de données. Aucune contrepartie financière spécifique ne sera versée au titre de cette obligation.",
+"categorie": "DESEQUILIBRE",
+"gravite": 3,
+"justification": "La clause prévoit une restriction professionnelle large et durable sans contrepartie financière spécifique."
+},
+{
+"article": "Article 14",
+"texte_exact": "Pendant l’exécution du contrat, le salarié consacrera son activité professionnelle à l’entreprise et s’interdit toute activité rémunérée ou non rémunérée pour le compte d’un tiers sans autorisation écrite préalable de l’Employeur, y compris les activités accessoires sans lien avec le secteur informatique.",
+"categorie": "DESEQUILIBRE",
+"gravite": 2,
+"justification": "L’interdiction très large couvre même des activités accessoires sans rapport avec l’emploi."
+}
+]
+}
+</ANNOTATION>
+<CONTRAT>
+CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE — DOCUMENT FICTIF
+Entre les soussignés :
+La société MARCHÉA DISTRIBUTION, société fictive, 42 avenue des Halles, 69000 Lyon, SIRET fictif NON VALIDE : 111 111
+111 11111, représentée par M. Julien Perrin, directeur des opérations,
+Et Mme Samira Benali, née le 9 septembre 2001 à Grenoble, demeurant 12 rue des Tilleuls, 38000 Grenoble, numéro de
+sécurité sociale fictif et non valide : 2 01 99 99 999 999 99,
+Il est convenu ce qui suit.
+Article 1 — Fonction
+Mme Samira Benali est recrutée comme employée polyvalente de commerce, statut non-cadre, à compter du 10 novembre
+2026. Elle participe à l’accueil des clients, à la mise en rayon, à l’encaissement, au suivi des stocks et à la préparation des
+commandes.
+Article 2 — Motif et durée
+Le présent CDD est conclu pour accroissement temporaire d’activité lié au déploiement d’un nouveau point de vente. Il prendra
+effet le 10 novembre 2026 et prendra fin le 30 avril 2027, sous réserve des règles légales applicables au terme et au
+renouvellement.
+Article 3 — Période d’essai
+Une période d’essai de deux semaines est prévue, dans la limite permise par les dispositions applicables aux CDD.
+Article 4 — Lieu de travail
+Le lieu principal de travail est le magasin fictif Marchéa Part-Dieu, 5 rue des Commerces, 69000 Lyon. Des changements
+temporaires de magasin peuvent être proposés lorsque les nécessités d’organisation le justifient, dans le respect des
+dispositions applicables.
+Article 5 — Durée du travail
+La durée hebdomadaire de travail est fixée à 35 heures. Les horaires sont communiqués selon le planning de l’établissement.
+Des heures supplémentaires peuvent être demandées dans les conditions prévues par la loi et la convention collective.
+Article 6 — Rémunération
+La salariée percevra un salaire brut mensuel de 1 850 euros pour un horaire correspondant à 35 heures hebdomadaires. Une
+prime liée à la performance commerciale pourra être versée selon les modalités communiquées par l’entreprise.
+Article 7 — Prime variable
+La prime dépendra de la qualité du travail, de l’engagement, du comportement commercial, des résultats du magasin et de tout
+autre élément apprécié par la direction. Son montant sera déterminé ultérieurement en fonction des circonstances et des
+objectifs de l’entreprise. La salariée reconnaît que cette prime est discrétionnaire et qu’elle ne peut constituer un élément acquis
+de rémunération.
+Article 8 — Congés
+La salariée bénéficie des congés payés conformément aux dispositions légales et conventionnelles applicables. Les demandes
+de congés sont présentées à l’avance au responsable du magasin afin de permettre l’organisation du service.
+Article 9 — Convention collective
+Le contrat relève, sous réserve du champ d’application, de la convention collective nationale du commerce de détail et de gros à
+prédominance alimentaire.
+Article 10 — Confidentialité
+La salariée s’engage à ne pas divulguer les informations commerciales, données clients, méthodes internes, informations
+relatives aux stocks, prix d’achat ou documents confidentiels dont elle aurait connaissance dans l’exercice de ses fonctions.
+Article 11 — Exclusivité et activité extérieure
+Compte tenu des impératifs d’organisation du magasin, la salariée s’engage à informer l’Employeur de toute activité
+professionnelle extérieure susceptible d’affecter son temps de travail ou son repos. Toute activité extérieure demeure soumise
+aux limites légales applicables.
+Article 12 — Données personnelles
+Les données nécessaires à l’embauche, à la paie, à la gestion des horaires et à l’administration du personnel sont traitées par
+l’Employeur conformément à la réglementation applicable. La salariée peut exercer ses droits auprès du service des ressources
+humaines selon les modalités communiquées par l’entreprise.
+Article 13 — Contrôle de l’activité
+Les systèmes de caisse, outils professionnels et dispositifs de sécurité peuvent être utilisés pour contrôler l’activité et protéger
+les biens de l’entreprise. Les dispositifs sont mis en œuvre dans le respect des principes de nécessité, de proportionnalité et
+d’information des salariés.
+Article 14 — Discipline
+La salariée doit respecter les règles de sécurité, d’hygiène, de fonctionnement du magasin et les consignes raisonnables de sa
+hiérarchie. Toute mesure disciplinaire est prise dans les conditions prévues par les dispositions applicables.
+Article 15 — Fin du contrat
+Le contrat prend fin à son terme, sous réserve des dispositions légales relatives au renouvellement, à la poursuite de la relation
+de travail et aux cas de rupture anticipée autorisés. L’indemnité de fin de contrat, lorsqu’elle est due, est versée dans les
+conditions prévues par la loi.
+Article 16 — Formation et consignes
+La salariée peut recevoir les formations nécessaires à l’exercice de ses fonctions, notamment en matière de sécurité,
+d’utilisation des caisses et de procédures internes. Elle s’engage à suivre les instructions professionnelles qui lui sont
+communiquées lorsqu’elles sont compatibles avec ses fonctions et les règles applicables.
+Article 17 — Égalité de traitement
+La salariée bénéficie des mêmes droits et protections que les salariés placés dans une situation comparable, sous réserve des
+règles propres à la nature et à la durée de son contrat. L’Employeur s’engage à respecter les règles applicables en matière
+d’égalité professionnelle et de non-discrimination.
+Article 18 — Dispositions finales
+Le présent contrat est établi en français et remis à la salariée. Toute modification substantielle est effectuée dans les conditions
+requises par les textes applicables.
+Fait à Lyon, le 10 novembre 2026, en deux exemplaires.
+Pour l’Employeur : Julien Perrin
+Signature : __________________
+La salariée : Samira Benali
+Signature : __________________
+</CONTRAT>
+<ANNOTATION>
+{
+"id": "CT-002",
+"type_contrat": "CDD",
+"statut": "non-cadre",
+"secteur": "commerce",
+"document_toxique": true,
+"niveau_toxicite": "modere",
+"clauses_toxiques": [
+{
+"article": "Article 7",
+"texte_exact": "La prime dépendra de la qualité du travail, de l’engagement, du comportement commercial, des résultats du magasin et de tout autre élément apprécié par la direction. Son montant sera déterminé ultérieurement en fonction des circonstances et des objectifs de l’entreprise. La salariée reconnaît que cette prime est discrétionnaire et qu’elle ne peut constituer un élément acquis de rémunération.",
+"categorie": "OPACITE",
+"gravite": 2,
+"justification": "Les critères de calcul et le montant de la prime sont insuffisamment définis et laissent une marge discrétionnaire très large."
+},
+{
+"article": "Article 4",
+"texte_exact": "Le lieu principal de travail est le magasin fictif Marchéa Part-Dieu, 5 rue des Commerces, 69000 Lyon. Des changements temporaires de magasin peuvent être proposés lorsque les nécessités d’organisation le justifient, dans le respect des dispositions applicables.",
+"categorie": "DESEQUILIBRE",
+"gravite": 1,
+"justification": "La possibilité de changement temporaire de lieu reste large et peu encadrée, même si elle est limitée par les règles applicables."
+}
+]
+}
+</ANNOTATION>
+<CONTRAT>
+CONTRAT DE MISSION D’INTÉRIM — DOCUMENT FICTIF
+Entre les soussignés :
+La société INTERIM AXE, entreprise de travail temporaire fictive, 8 boulevard des Ateliers, 31000 Toulouse, SIRET fictif NON
+VALIDE : 222 222 222 22222, représentée par Mme Élodie Martin, directrice d’agence,
+Et M. Lucas Robert, né le 22 mai 2003 à Albi, demeurant 4 rue du Canal, 81000 Albi, numéro de sécurité sociale fictif et non
+valide : 1 03 99 99 999 999 99,
+Il est convenu ce qui suit.
+Article 1 — Emploi et qualification
+M. Lucas Robert est mis à disposition de la société BATI-RÉNOV SERVICES, entreprise utilisatrice fictive, pour exercer les
+fonctions d’aide de chantier, statut non-cadre. Sous l’autorité de l’entreprise utilisatrice, il participe notamment à la manutention,
+au rangement du chantier, à la préparation des matériaux et à l’assistance des équipes techniques.
+Article 2 — Motif et durée de la mission
+La mission est conclue pour répondre à un accroissement temporaire d’activité sur un chantier de rénovation. Elle débute le 16
+novembre 2026 et est prévue jusqu’au 15 janvier 2027, sous réserve des règles applicables à la mission d’intérim.
+Article 3 — Période d’essai
+La période d’essai est fixée conformément aux dispositions légales et conventionnelles applicables au travail temporaire.
+Article 4 — Lieu de mission
+La mission est exécutée sur le chantier fictif situé 27 rue des Mimosas, 31000 Toulouse. En fonction de l’avancement du
+chantier, le salarié peut être affecté à des tâches différentes relevant de sa qualification et compatibles avec son état de santé et
+les règles de sécurité.
+Article 5 — Durée du travail
+La durée de travail est fixée à 35 heures par semaine. Les horaires sont communiqués par l’entreprise utilisatrice. Les heures
+supplémentaires, lorsqu’elles sont demandées et autorisées, sont rémunérées ou compensées conformément aux règles
+applicables.
+Article 6 — Rémunération
+Le salarié percevra une rémunération brute horaire de 12,50 euros. Il bénéficie des éléments de rémunération applicables aux
+salariés de l’entreprise utilisatrice placés dans une situation comparable, dans les conditions prévues par les textes applicables.
+Les indemnités de fin de mission et de congés payés sont versées lorsque les conditions légales sont réunies.
+Article 7 — Prime de présence
+Une prime mensuelle de 100 euros peut être attribuée lorsque le salarié respecte les horaires, les consignes de sécurité et les
+règles de présence. Cette prime ne peut avoir pour objet de priver le salarié de ses droits légaux et conventionnels.
+Article 8 — Congés
+Les congés et repos sont accordés conformément aux règles applicables au travail temporaire et à l’organisation de l’entreprise
+utilisatrice.
+Article 9 — Convention collective
+La relation de travail relève des dispositions applicables au travail temporaire ainsi que, pour les conditions de travail relevant de
+l’entreprise utilisatrice, des dispositions qui lui sont applicables.
+Article 10 — Santé et sécurité
+Le salarié reçoit les informations et formations nécessaires à l’exécution de sa mission. Il doit respecter les équipements de
+protection individuelle, les consignes de sécurité et les procédures du chantier. Toute situation dangereuse doit être signalée à
+l’entreprise utilisatrice et à l’entreprise de travail temporaire.
+Article 11 — Confidentialité
+Le salarié s’engage à ne pas divulguer les informations techniques, commerciales ou organisationnelles auxquelles il aurait
+accès pendant sa mission.
+Article 12 — Données personnelles
+INTERIM AXE traite les données nécessaires à la gestion administrative, à la rémunération, à la déclaration des obligations
+sociales et au suivi de la mission. Les données sont conservées pendant les durées prévues par les textes applicables et les
+informations relatives aux droits des personnes sont communiquées au salarié.
+Article 13 — Contrôle de l’activité
+Les contrôles effectués par l’entreprise utilisatrice doivent être nécessaires à l’organisation du travail, à la sécurité ou à la
+protection des biens. Le salarié est informé des dispositifs de contrôle mis en place et ceux-ci ne doivent pas conduire à une
+surveillance disproportionnée de son activité.
+Article 14 — Respect du salarié
+Le salarié doit exécuter les consignes professionnelles raisonnables et respecter les personnes présentes sur le chantier.
+Réciproquement, aucune instruction ne peut avoir pour objet de l’exposer à un risque injustifié ou de le priver des protections
+prévues par les règles applicables.
+Article 15 — Rupture et fin de mission
+La mission prend fin dans les conditions prévues par le droit du travail temporaire. Toute rupture anticipée est effectuée dans les
+cas et selon les procédures autorisés. À la fin de la mission, les documents de fin de contrat sont remis au salarié dans les
+conditions applicables.
+Article 16 — Formation et accompagnement
+Avant ou au début de la mission, le salarié reçoit les informations nécessaires concernant les risques liés au chantier, les
+équipements de protection et les consignes d’urgence. L’entreprise utilisatrice veille à ce que les tâches confiées soient
+compatibles avec sa qualification et les mesures de prévention applicables.
+Article 17 — Égalité de traitement et non-discrimination
+Le salarié bénéficie, pendant sa mission, des conditions de travail applicables aux salariés de l’entreprise utilisatrice dans les
+limites prévues par les dispositions relatives au travail temporaire. Aucune décision relative à l’affectation, à la rémunération ou
+aux conditions de travail ne peut être fondée sur un motif discriminatoire interdit par la loi.
+Article 18 — Réclamations et interlocuteurs
+Pour toute question relative à son contrat, le salarié peut contacter l’agence INTERIM AXE. Pour les questions relatives à
+l’organisation quotidienne, à la sécurité ou aux conditions de travail sur le chantier, il peut également s’adresser au responsable
+désigné par l’entreprise utilisatrice.
+Article 19 — Dispositions finales
+Le présent document est fictif et destiné à un corpus universitaire. Il est rédigé en français et ne constitue pas un modèle destiné
+à une utilisation professionnelle réelle. Les dispositions impératives du droit du travail prévalent sur toute stipulation contraire.
+Fait à Toulouse, le 16 novembre 2026, en deux exemplaires.
+Pour INTERIM AXE : Élodie Martin
+Signature : __________________
+Le salarié : Lucas Robert
+Signature : __________________
+</CONTRAT>
+<ANNOTATION>
+{
+"id": "CT-003",
+"type_contrat": "intérim",
+"statut": "non-cadre",
+"secteur": "BTP",
+"document_toxique": false,
+"niveau_toxicite": "aucun",
+"clauses_toxiques": []
+}
+</ANNOTATION>

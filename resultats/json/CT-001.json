@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "titre": "CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE — DOCUMENT FICTIF",
+    "date_signature": "2026-11-03",
+    "type_contrat": "CDI",
+    "statut": "cadre",
+    "secteur": "bureaux d’études techniques, cabinets d’ingénieurs-conseils et sociétés de conseil"
+  },
+  "parties": [
+    {
+      "role": "employeur",
+      "nom": "NOVADATA HEXAGONE",
+      "type_partie": "personne_morale"
+    },
+    {
+      "role": "salarie",
+      "nom": "Adrien Mercier",
+      "type_partie": "personne_physique"
+    }
+  ],
+  "extraction": {
+    "fonction": "Ingénieur Data",
+    "date_debut": "2026-11-03",
+    "date_fin": null,
+    "periode_essai_mois": 4,
+    "lieu_travail": "siège de NOVADATA HEXAGONE à Paris",
+    "clause_mobilite": true,
+    "duree_travail": "forfait annuel de 218 jours travaillés",
+    "remuneration_brute_annuelle": 48000,
+    "remuneration_variable_presente": true,
+    "convention_collective": "convention collective nationale des bureaux d’études techniques, cabinets d’ingénieurs-conseils et sociétés de conseil (Syntec-Cinov)",
+    "clause_non_concurrence": true,
+    "non_concurrence_duree_mois": 24,
+    "non_concurrence_contrepartie": false,
+    "clause_exclusivite": true,
+    "preavis": null
+  },
+  "clauses": [
+    {
+      "article": "Article 7 — Rémunération",
+      "categorie": "ILLEGAL",
+      "texte_exact": "À tout moment, l’Employeur pourra modifier unilatéralement le montant du salaire fixe et les éléments essentiels de la rémunération en fonction des besoins économiques, de la situation financière de l’entreprise ou de l’évolution des missions, sans qu’un avenant soit nécessaire et sans que le salarié puisse s’y opposer.",
+      "niveau_toxicite": "critique",
+      "justification": "La rémunération est un élément contractuel essentiel qui ne peut en aucun cas être modifié unilatéralement par l'employeur sans l'accord exprès du salarié.",
+      "confiance": 1.0,
+      "clause_id": "CT-001-C1",
+      "position": 2814
+    },
+    {
+      "article": "Article 13 — Non-concurrence",
+      "categorie": "ILLEGAL",
+      "texte_exact": "Compte tenu de l’accès du salarié à des informations stratégiques, une obligation de non-concurrence s’appliquera pendant vingt-quatre mois après la rupture du contrat sur l’ensemble du territoire de l’Union européenne. Pendant cette période, le salarié s’interdit de travailler pour toute entreprise exerçant une activité concurrente directe de NOVADATA HEXAGONE dans le domaine des plateformes de données. Aucune contrepartie financière spécifique ne sera versée au titre de cette obligation.",
+      "niveau_toxicite": "critique",
+      "justification": "Une clause de non-concurrence sans contrepartie financière est frappée de nullité absolue selon une jurisprudence constante de la Cour de cassation, et son champ géographique est excessif.",
+      "confiance": 1.0,
+      "clause_id": "CT-001-C2",
+      "position": 4699
+    },
+    {
+      "article": "Article 14 — Exclusivité",
+      "categorie": "DESEQUILIBRE",
+      "texte_exact": "Pendant l’exécution du contrat, le salarié consacrera son activité professionnelle à l’entreprise et s’interdit toute activité rémunérée ou non rémunérée pour le compte d’un tiers sans autorisation écrite préalable de l’Employeur, y compris les activités accessoires sans lien avec le secteur informatique.",
+      "niveau_toxicite": "eleve",
+      "justification": "L'interdiction absolue de toute activité accessoire, même non rémunérée et sans lien avec l'activité de l'employeur, constitue une atteinte disproportionnée et injustifiée à la liberté du travail et à la vie personnelle.",
+      "confiance": 0.95,
+      "clause_id": "CT-001-C3",
+      "position": 5219
+    }
+  ],
+  "contrat_id": "CT-001",
+  "presence_toxicite": true,
+  "niveau_toxicite": "critique",
+  "categorie_toxicite": [
+    "DESEQUILIBRE",
+    "ILLEGAL"
+  ],
+  "source": "llm",
+  "version_schema": "1.0"
+}

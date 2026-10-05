@@ -1,0 +1,41 @@
+{
+  "contrat_id": "CT-002",
+  "metadata": {
+    "titre": null,
+    "date_signature": null,
+    "type_contrat": "CDD",
+    "statut": "non-cadre",
+    "secteur": "commerce"
+  },
+  "parties": [],
+  "clauses": [
+    {
+      "article": "Article 7",
+      "categorie": "OPACITE",
+      "texte_exact": "La prime dépendra de la qualité du travail, de l’engagement, du comportement commercial, des résultats du magasin et de tout autre élément apprécié par la direction. Son montant sera déterminé ultérieurement en fonction des circonstances et des objectifs de l’entreprise. La salariée reconnaît que cette prime est discrétionnaire et qu’elle ne peut constituer un élément acquis de rémunération.",
+      "niveau_toxicite": "moyen",
+      "justification": "Les critères de calcul et le montant de la prime sont insuffisamment définis et laissent une marge discrétionnaire très large.",
+      "confiance": 1.0,
+      "position": 2023,
+      "clause_id": "CT-002-C1"
+    },
+    {
+      "article": "Article 4",
+      "categorie": "DESEQUILIBRE",
+      "texte_exact": "Le lieu principal de travail est le magasin fictif Marchéa Part-Dieu, 5 rue des Commerces, 69000 Lyon. Des changements temporaires de magasin peuvent être proposés lorsque les nécessités d’organisation le justifient, dans le respect des dispositions applicables.",
+      "niveau_toxicite": "faible",
+      "justification": "La possibilité de changement temporaire de lieu reste large et peu encadrée, même si elle est limitée par les règles applicables.",
+      "confiance": 1.0,
+      "position": 1206,
+      "clause_id": "CT-002-C2"
+    }
+  ],
+  "presence_toxicite": true,
+  "niveau_toxicite": "moyen",
+  "categorie_toxicite": [
+    "DESEQUILIBRE",
+    "OPACITE"
+  ],
+  "source": "hybride",
+  "version_schema": "1.0"
+}

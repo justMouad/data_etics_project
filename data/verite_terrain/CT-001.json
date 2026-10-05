@@ -1,0 +1,50 @@
+{
+  "contrat_id": "CT-001",
+  "metadata": {
+    "titre": null,
+    "date_signature": null,
+    "type_contrat": "CDI",
+    "statut": "cadre",
+    "secteur": "informatique"
+  },
+  "parties": [],
+  "clauses": [
+    {
+      "article": "Article 7",
+      "categorie": "DESEQUILIBRE",
+      "texte_exact": "À tout moment, l’Employeur pourra modifier unilatéralement le montant du salaire fixe et les éléments essentiels de la rémunération en fonction des besoins économiques, de la situation financière de l’entreprise ou de l’évolution des missions, sans qu’un avenant soit nécessaire et sans que le salarié puisse s’y opposer.",
+      "niveau_toxicite": "eleve",
+      "justification": "La clause autorise une modification unilatérale du salaire et d’éléments essentiels du contrat sans accord du salarié.",
+      "confiance": 1.0,
+      "position": 2814,
+      "clause_id": "CT-001-C1"
+    },
+    {
+      "article": "Article 13",
+      "categorie": "DESEQUILIBRE",
+      "texte_exact": "Compte tenu de l’accès du salarié à des informations stratégiques, une obligation de non-concurrence s’appliquera pendant vingt-quatre mois après la rupture du contrat sur l’ensemble du territoire de l’Union européenne. Pendant cette période, le salarié s’interdit de travailler pour toute entreprise exerçant une activité concurrente directe de NOVADATA HEXAGONE dans le domaine des plateformes de données. Aucune contrepartie financière spécifique ne sera versée au titre de cette obligation.",
+      "niveau_toxicite": "eleve",
+      "justification": "La clause prévoit une restriction professionnelle large et durable sans contrepartie financière spécifique.",
+      "confiance": 1.0,
+      "position": 4699,
+      "clause_id": "CT-001-C2"
+    },
+    {
+      "article": "Article 14",
+      "categorie": "DESEQUILIBRE",
+      "texte_exact": "Pendant l’exécution du contrat, le salarié consacrera son activité professionnelle à l’entreprise et s’interdit toute activité rémunérée ou non rémunérée pour le compte d’un tiers sans autorisation écrite préalable de l’Employeur, y compris les activités accessoires sans lien avec le secteur informatique.",
+      "niveau_toxicite": "moyen",
+      "justification": "L’interdiction très large couvre même des activités accessoires sans rapport avec l’emploi.",
+      "confiance": 1.0,
+      "position": 5219,
+      "clause_id": "CT-001-C3"
+    }
+  ],
+  "presence_toxicite": true,
+  "niveau_toxicite": "eleve",
+  "categorie_toxicite": [
+    "DESEQUILIBRE"
+  ],
+  "source": "hybride",
+  "version_schema": "1.0"
+}

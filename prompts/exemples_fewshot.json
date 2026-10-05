@@ -1,0 +1,18 @@
+{
+  "examples": [
+    {
+      "texte": "Le salarié accepte de ne jamais prendre de congés et d'être disponible 24h/24.",
+      "categorie": "Restriction excessive de liberté",
+      "conclusion": "toxique",
+      "niveau_toxicite": "eleve",
+      "justification": "Clause limitant gravement la liberté personnelle et les droits du salarié sans cadre raisonnable."
+    },
+    {
+      "texte": "Les décisions disciplinaires sont prises conformément au règlement intérieur et à la procédure prévue.",
+      "categorie": "Sanctions abusives",
+      "conclusion": "non_toxique",
+      "niveau_toxicite": "non_applicable",
+      "justification": "Clause classique et proportionnée, encadrée par des règles internes."
+    }
+  ]
+}

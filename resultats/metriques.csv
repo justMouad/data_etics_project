@@ -1,0 +1,2 @@
+contrats,tp,fp,fn,precision,rappel,f1,acc_doc,acc_niveau_doc
+2,3,0,0,1.0,1.0,1.0,1.0,0.5

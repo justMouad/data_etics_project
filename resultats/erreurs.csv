@@ -1,0 +1,6 @@
+contrat,type_erreur,article,categorie,detail
+CT-001,CATEGORIE,Article 7,DESEQUILIBRE,"attendu DESEQUILIBRE, obtenu ILLEGAL"
+CT-001,NIVEAU,Article 7,DESEQUILIBRE,"attendu eleve, obtenu critique"
+CT-001,CATEGORIE,Article 13,DESEQUILIBRE,"attendu DESEQUILIBRE, obtenu ILLEGAL"
+CT-001,NIVEAU,Article 13,DESEQUILIBRE,"attendu eleve, obtenu critique"
+CT-001,NIVEAU,Article 14,DESEQUILIBRE,"attendu moyen, obtenu eleve"

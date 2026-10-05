@@ -1,0 +1,19 @@
+llm:
+  model: "gpt-4o-mini"
+  temperature: 0.2
+  max_retries: 3
+  timeout: 45
+
+paths:
+  contracts: "data/contrats"
+  ground_truth: "data/verite_terrain"
+  raw: "data/brut"
+  database: "data/db/etics.sqlite"
+  results: "resultats"
+
+evaluation:
+  metrics: ["precision", "recall", "f1", "accuracy"]
+  similarity_threshold: 0.75
+
+logging:
+  level: "INFO"
